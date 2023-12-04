@@ -1,11 +1,11 @@
 .card {
   background-color: #ffffff;
 }
-.card_title {
+.card__title {
   color: #282828;
   font-size: 14px;
 }
-.card_discription {
+.card__discription {
   color: #282828;
   font-size: 12px;
 }
@@ -13,7 +13,7 @@
 img {
   margin-bottom: auto;
 }
-.card_img-top {
+.card__img-top {
   width: 288px;
   height: 182px;
 }
